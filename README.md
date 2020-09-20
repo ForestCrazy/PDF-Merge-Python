@@ -1,4 +1,4 @@
-﻿# Python-PDF-Merge
+﻿# Python-PDF-Merger
 
 ## :arrow_down: Install
 ```
@@ -16,6 +16,6 @@ pip install tkinter
 * Run the merger.py file: <br>
 ``` python merger.py ```
 
-* Select pdf file
+* Select multiple pdf file
 
 #### Create By ForestCrazy
